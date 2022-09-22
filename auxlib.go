@@ -51,7 +51,7 @@ func (ls *LState) CheckString(n int) string {
 	} else if LVCanConvToString(v) {
 		return ls.ToString(n)
 	}
-	ls.TypeError(n, LTString)
+	// ls.TypeError(n, LTString)
 	return ""
 }
 

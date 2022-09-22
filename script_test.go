@@ -2,12 +2,13 @@ package lua
 
 import (
 	"fmt"
-	"github.com/yuin/gopher-lua/parse"
 	"os"
 	"runtime"
 	"sync/atomic"
 	"testing"
 	"time"
+
+	"github.com/libinreal/parse"
 )
 
 const maxMemory = 40
