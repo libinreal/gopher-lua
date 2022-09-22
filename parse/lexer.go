@@ -9,7 +9,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/libinreal/ast"
+	"github.com/libinreal/gopher-lua/ast"
 )
 
 const EOF = -1

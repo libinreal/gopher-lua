@@ -8,7 +8,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/libinreal/parse"
+	"github.com/libinreal/gopher-lua/parse"
 )
 
 const maxMemory = 40

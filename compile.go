@@ -5,7 +5,7 @@ import (
 	"math"
 	"reflect"
 
-	"github.com/libinreal/ast"
+	"github.com/libinreal/gopher-lua/ast"
 )
 
 /* internal constants & structs  {{{ */

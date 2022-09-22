@@ -8,7 +8,7 @@ import (
 
 	"github.com/chzyer/readline"
 	lua "github.com/libinreal/gopher-lua"
-	"github.com/libinreal/parse"
+	"github.com/libinreal/gopher-lua/parse"
 )
 
 func main() {
